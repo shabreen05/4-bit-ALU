@@ -130,11 +130,13 @@ endmodule
 ```
 Screenshot 
 
-![imag](img/ss_1)
+![imag](img/ss_1.png)
 
-![imag](img/ss_2)
+![imag](img/ss_2.png)
 
-![imag](img/ss_3)
+OutPut
+
+![imag](img/ss_3.png)
 
 
 #### I use EDA Playground for designing and simulating digital circuits with the following configuration:
@@ -150,6 +152,6 @@ Screenshot
      
 ### Compile Options:
 
--timescale 1ns/1ns: Specifies that the time unit and precision for simulation are in nanoseconds.
--sysv: Indicates that SystemVerilog features should be used during compilation
+* -timescale 1ns/1ns: Specifies that the time unit and precision for simulation are in nanoseconds.
+* -sysv: Indicates that SystemVerilog features should be used during compilation
 
